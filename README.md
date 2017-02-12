@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-with Andres
+with Andrew Trask
